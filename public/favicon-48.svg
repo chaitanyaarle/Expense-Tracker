@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green background -->
+  <rect width="48" height="48" fill="#22c55e" rx="6"/>
+  
+  <!-- Letter 'E' -->
+  <text x="24" y="36" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">E</text>
+</svg>
